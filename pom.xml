@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.28.40:8081/repository/visa-snapshot/</url>
+	      <url>http://34.204.107.216:8081/repository/visa-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
