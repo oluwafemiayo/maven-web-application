@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>hhttp://34.228.9.159:8081/repository/cashapp-snapshots//</url>
+	      <url>http://172.31.28.40:8081/repository/cashapp-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
